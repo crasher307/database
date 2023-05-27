@@ -2,8 +2,8 @@
 
 <details class="desc"><summary>Урок 1. Установка СУБД, подключение к БД, просмотр и создание таблиц</summary>
 
-[work1]\
-[home1]
+[Работа во время семинара](work1)\
+[Домашнее задание][home1]
 
 ```text
 1. Создайте таблицу с мобильными телефонами, используя графический интерфейс. Заполните БД данными
@@ -21,8 +21,8 @@
 </details>
 <details class="desc"><summary>Урок 2. SQL – создание объектов, простые запросы выборки</summary>
 
-[work2]\
-~~[home2]~~
+(Работа во время семинара)[work2]\
+~~(Домашнее задание)[home2]~~
 
 ```text
 1. Используя операторы языка SQL, создайте табличку “sales”. Заполните ее данными
@@ -61,7 +61,7 @@
 
 </details>
 
-(Работа во время семинара)[work1]: https://github.com/crasher307/database/blob/master/lesson1/work.sql
-(Домашнее задание)[home1]: https://github.com/crasher307/database/blob/master/lesson1/homework.sql
-(Работа во время семинара)[work2]: https://github.com/crasher307/database/blob/master/lesson2/work.sql
-(Домашнее задание)[home2]: https://github.com/crasher307/database/blob/master/lesson2/homework.sql
+[work1]: https://github.com/crasher307/database/blob/master/lesson1/work.sql
+[home1]: https://github.com/crasher307/database/blob/master/lesson1/homework.sql
+[work2]: https://github.com/crasher307/database/blob/master/lesson2/work.sql
+[home2]: https://github.com/crasher307/database/blob/master/lesson2/homework.sql

@@ -61,7 +61,10 @@
 
 </details>
 
-[work1]: https://github.com/crasher307/database/blob/master/lesson1/work.sql
+[link]: https://github.com/crasher307/database/blob/master/
+
+[work1]: lesson1/work.sql
+[//]: # ([work1]: https://github.com/crasher307/database/blob/master/lesson1/work.sql)
 [home1]: https://github.com/crasher307/database/blob/master/lesson1/homework.sql
 [work2]: https://github.com/crasher307/database/blob/master/lesson2/work.sql
 [home2]: https://github.com/crasher307/database/blob/master/lesson2/homework.sql

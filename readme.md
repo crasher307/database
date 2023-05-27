@@ -2,7 +2,7 @@
 
 <details class="desc"><summary>Урок 1. Установка СУБД, подключение к БД, просмотр и создание таблиц</summary>
 
-[Работа во время семинара][work1]\
+[work1]\
 [Домашнее задание][home1]
 
 ```text
@@ -61,7 +61,7 @@
 
 </details>
 
-[work1]: https://github.com/crasher307/database/blob/master/lesson1/work.sql
+(Работа во время семинара)[work1]: https://github.com/crasher307/database/blob/master/lesson1/work.sql
 [home1]: https://github.com/crasher307/database/blob/master/lesson1/homework.sql
 [work2]: https://github.com/crasher307/database/blob/master/lesson2/work.sql
 [home2]: https://github.com/crasher307/database/blob/master/lesson2/homework.sql

@@ -67,7 +67,7 @@
 <details class="desc" data-name="lesson4"><summary>Урок 4. SQL – работа с несколькими таблицами</summary>
 
 [Работа во время семинара][work4]\
-~~[Домашнее задание][home4]~~
+[Домашнее задание][home4]
 
 ```text
 Табличка: https://drive.google.com/file/d/1TZzW8ZlDdvIfDC9C46bUeILey6opQjdu/view?usp=share_link
@@ -134,5 +134,5 @@
 [home2]: lesson2/homework/homework.sql
 [work3]: lesson3/work/
 [home3]: lesson3/homework.sql
-[work4]: lesson4/work.sql
-[home4]: lesson4/homework.sql
+[work4]: lesson4/work/work.sql
+[home4]: lesson4/homework/homework.sql

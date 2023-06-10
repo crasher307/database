@@ -13,6 +13,16 @@ select * from cost_max;
 create or replace view skoda_audi as select * from cars where name in ('Skoda', 'Audi');
 select * from skoda_audi;
 
+# ???
+select
+    *,
+    sum(salary) over (partition by post) as post_sum_salary,
+    concat(round(salary / sum(salary) over () * 100), '%') as perc_sum_salary,
+    round(avg(salary) over(), 2) as avg_salary,
+    concat(round(salary / avg(salary) over () * 100), '%') as perc_avg_salary
+from staff
+where post not in ('Начальник', 'Уборщик');
+
 # 4
 select *,
        timediff(
